@@ -1,2 +1,5 @@
-# -
-学校研究性学习资料
+# TheWonderingEarthSIM
+该存储库为学校研究性学习资料，同时作为个人学习Matplotlib动画的作品。
+请自行摸索api，导出视频mp4文件需要自行下载ffmpeg
+main.py为主文件，video文件夹里是相关视频
+代码是从csdn寻找并修改的
